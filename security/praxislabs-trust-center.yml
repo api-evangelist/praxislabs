@@ -1,0 +1,16 @@
+generated: '2026-07-20'
+method: searched
+source: https://praxislabs.co (homepage security/data-protection statement)
+company: Praxis Labs
+trust_center_url: null
+certifications:
+- name: SOC 2 Type 2
+  status: certified
+  evidence: 'Homepage statement: "Ensure company data remains private and proprietary
+    with comprehensive data protection, Enterprise privacy standards, and SOC2 security
+    certification." Praxis Labs is described as SOC-2 Type 2 certified.'
+compliance_programs:
+- Enterprise privacy standards / comprehensive data protection (stated)
+notes: No dedicated trust-center or compliance-portal page was found; the SOC 2 Type
+  2 certification is asserted on the marketing homepage. No downloadable report,
+  compliance portal (e.g. Vanta/Drata/SafeBase), or bug-bounty program was located.

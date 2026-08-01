@@ -1,0 +1,21 @@
+generated: '2026-07-20'
+method: probed
+source: live HTTP probes of https://praxislabs.co well-known paths
+host: praxislabs.co
+endpoints:
+- path: /.well-known/security.txt
+  status: 404
+  file: null
+- path: /.well-known/openid-configuration
+  status: 404
+  file: null
+- path: /.well-known/ai-plugin.json
+  status: 404
+  file: null
+- path: /llms.txt
+  status: 404
+  file: null
+notes: No well-known metadata published. Praxis Labs (praxislabs.co) is a marketing/content
+  site (WordPress) for an AI leadership-learning product; the application lives at
+  practice.praxislabs.co behind login. No public API, developer portal, or discovery
+  documents were found.
