@@ -67,6 +67,11 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: ParentCompany
+  url: https://apis.io/providers/torch/
+  name: Torch
+  x-relationship: acquired
+  x-evidence: "Praxis Labs is an AI-powered leadership and human-skills learning platform, surfaced as a portfolio company of Norwest Venture Partners and acquired by Torch. Its flagship product, Pivotal Practice, uses immersive simulations, personalized "
 - type: Website
   url: https://praxislabs.co
 - type: About
